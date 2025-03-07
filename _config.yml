@@ -1,2 +1,4 @@
-theme: minima
-title: Antonio Walter De Fusco’s Portfolio
+theme: jekyll-theme-cayman
+title: Antonio Walter De Fusco's Portfolio
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal portfolio to showcase projects, ongoing work, and my skills.
