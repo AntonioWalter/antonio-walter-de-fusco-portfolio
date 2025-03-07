@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman # o un altro tema che stai usando
 title: Antonio Walter De Fusco's Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
   My personal portfolio to showcase projects, ongoing work, and my skills.
+include: [assets/css/custom.css]
