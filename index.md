@@ -51,6 +51,6 @@ Details about the competition can be viewed in the awards section of my [LinkedI
 
 Feel free to reach out to me if you have any questions or if you are interested in collaborating on a project.
 
-- **[Email](defuscoantoniowalter@gmail.com)**
+- **[Email](mailto:defuscoantoniowalter@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/antonio-walter-de-fusco/)**
 - **[GitHub](https://github.com/AntonioWalter)**
