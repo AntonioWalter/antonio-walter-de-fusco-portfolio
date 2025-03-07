@@ -3,26 +3,6 @@ layout: default
 title: Antonio Walter De Fusco's Portfolio
 ---
 
-<style>
-body {
-    background-color: #f0f0f0; /* Colore di sfondo personalizzato */
-    color: #333; /* Colore del testo personalizzato */
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #0056b3; /* Colore dei titoli personalizzato */
-}
-
-a {
-    color: #ff4500; /* Colore dei link personalizzato */
-}
-
-nav {
-    background-color: #333; /* Colore di sfondo della barra di navigazione */
-    color: #fff; /* Colore del testo della barra di navigazione */
-}
-</style>
-
 # Welcome to My Portfolio
 
 Hello! I am Antonio Walter De Fusco, an undergraduate computer science student at the University of Salerno. This portfolio showcases my projects, ongoing work, and skills.
