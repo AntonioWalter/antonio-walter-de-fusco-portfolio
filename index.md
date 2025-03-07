@@ -1,5 +1,3 @@
-# Antonio Walter De Fusco's Portfolio
-
 Welcome to my personal portfolio! I am Antonio Walter De Fusco, an undergraduate computer science student at the University of Salerno. This portfolio showcases my projects, ongoing work, and skills.
 
 ## About Me
